@@ -6,7 +6,7 @@ function App() {
     <>
       <Weather />
       <div id='github'>
-        <h6>github.com/pratyush-nirwan/weather-wise</h6>
+        <h6>github.com/vedant-raut/weather-wise</h6>
       </div>
     </>
   );
